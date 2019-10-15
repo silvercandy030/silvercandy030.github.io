@@ -198,7 +198,7 @@ keybase-in-footer: True
 pages_list:
   About: 'about'
   Awards: 'latest-post'
-  Timeline: 'timeline'
+  Projects: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
