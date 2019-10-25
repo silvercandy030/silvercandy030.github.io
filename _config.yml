@@ -137,6 +137,9 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2017 - August 2018"
     description: "the gold seed research project of South China Normal University"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "September 2017 - August 2018"
+    description: "the gold seed research project of South China Normal University"
 
 # First image of the Timeline
 
