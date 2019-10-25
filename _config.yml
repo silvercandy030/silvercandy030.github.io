@@ -132,15 +132,17 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2018 - Today"
+    date: "Dynamic release of campus information - based on real-time positioning September 2018 - Today"
     description: "the innovation and entrepreneurship research project of college students"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2017 - August 2018"
+    date: "Character recognition system based on brain-computer interface technology September 2017 - August 2018"
     description: "the gold seed research project of South China Normal University"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2017 - August 2018"
+    date: "Multimodal character input system based on EEG and EOG September 2017 - August 2018"
     description: "the gold seed research project of South China Normal University"
-
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "Hengqin Island Tourism Industry Development Research: Importance-Performance Analysis (IPA) Based on Online Comments"
+    description: "the gold seed research project of South China Normal University"
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
