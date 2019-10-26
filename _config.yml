@@ -131,7 +131,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/dynamic.png"
+  - image: "/img/timeline/dynamic.jpg"
     date: "Dynamic release of campus information - based on real-time positioning September 2018 - Today"
     description: "the innovation and entrepreneurship research project of college students Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September"
   - image: "/img/timeline/BCI.jpg"
