@@ -131,10 +131,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/dynamic.png"
     date: "Dynamic release of campus information - based on real-time positioning September 2018 - Today"
     description: "the innovation and entrepreneurship research project of college students Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/BCI.jpg"
     date: "Character recognition system based on brain-computer interface technology September 2017 - August 2018"
     description: "the gold seed research project of South China Normal University"
   - image: "/img/timeline/baracktocat.jpg"
