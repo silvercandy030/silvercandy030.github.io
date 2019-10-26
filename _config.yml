@@ -137,11 +137,8 @@ events:
   - image: "/img/timeline/BCI.jpg"
     date: "Character recognition system based on brain-computer interface technology September 2017 - August 2018"
     description: "the gold seed research project of South China Normal University"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/hq.jpg"
     date: "Multimodal character input system based on EEG and EOG September 2017 - August 2018"
-    description: "the gold seed research project of South China Normal University"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "Hengqin Island Tourism Industry Development Research: Importance-Performance Analysis (IPA) Based on Online Comments"
     description: "the gold seed research project of South China Normal University"
 # First image of the Timeline
 
