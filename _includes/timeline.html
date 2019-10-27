@@ -28,6 +28,10 @@
               </div>
               <div class="timeline-body">
                 {{ event.description | markdownify }}
+                <ul style="float:left;">
+                  <li>{{ event.level}}</li>
+                  <li>{{ event.honor}}</li>
+                </ul>
               </div>
             </div>
           </li>
