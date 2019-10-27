@@ -132,13 +132,16 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/dynamic.jpg"
-    date: "Dynamic release of campus information based on real-time positioning September 2018 - Today"
+    title: "Dynamic release of campus information based on real-time positioning"
+    date: "April 2018"
     description: "the innovation and entrepreneurship research project of college students Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September"
   - image: "/img/timeline/BCI.jpg"
-    date: "Character recognition system based on brain-computer interface technology September 2017 - August 2018"
+    title: "Character recognition system based on brain-computer interface technology"
+    date: " April 2019"
     description: "the gold seed research project of South China Normal University"
   - image: "/img/timeline/hq.jpg"
-    date: "Multimodal character input system based on EEG and EOG September 2017 - August 2018"
+    title: "Multimodal character input system based on EEG and EOG"  
+    date: "December 2018 - today"
     description: "the gold seed research project of South China Normal University"
 # First image of the Timeline
 
