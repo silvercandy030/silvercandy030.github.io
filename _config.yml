@@ -144,11 +144,11 @@ events:
     level: "National undergraduate innovation and entrepreneurship program"
     honor: "Related paper was accepted by the Chinese core journal -Computer Systems & Applications"
   - image: "/img/timeline/hq.jpg"
-    title: "Multimodal character input system based on EEG and EOG &"  
+    title: "Hengqin island tourism industry development research: importance-performance analysis based on online reviews"  
     date: "December 2018 - today"
-    description: "xxxxxxxxxxxxxxx"
+    description: "The project is to mine useful information from online reviews, automatically analyze the emotional tendencies of a large number of travel reviews through cutting-edge artificial intelligence techniques, calculate and evaluate the performance (satisfaction) and importance (importance) of each attribute, and build an IPA map to study the current status of tourism resources in Hengqin Island. According to the classification and market division of Hengqin Island, we plan for the development of Hengqin Island from seven aspects: food, housing, travel, tourism, purchase, entertainment and sport."
     level: "University-level undergraduate innovation and entrepreneurship projects"
-    honor: "University-level -challenge cup- gold seed cultivation project"
+    honor: ""
 # First image of the Timeline
 
 timeline-img: "/img/timeline/default.png"
