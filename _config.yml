@@ -132,7 +132,7 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/dynamic.jpg"
-    date: "Dynamic release of campus information - based on real-time positioning September 2018 - Today"
+    date: "Dynamic release of campus information based on real-time positioning September 2018 - Today"
     description: "the innovation and entrepreneurship research project of college students Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September Dynamic release of campus information - based on real-time positioning September"
   - image: "/img/timeline/BCI.jpg"
     date: "Character recognition system based on brain-computer interface technology September 2017 - August 2018"
@@ -148,7 +148,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "silvercandy@126.com"
 
 ################
 # Author Blurb #
