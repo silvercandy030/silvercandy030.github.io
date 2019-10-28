@@ -27,7 +27,7 @@
                 <h4><a href="" target="_blank">{{ event.date }}</a></h4>
               </div>
               <div class="timeline-body">
-                {{ event.description | markdownify }}
+                <strong>{{ event.description | markdownify }}</strong>
                 <ul style="float:left;text-align:left;padding-left: 0px;">
                   <li><a href="" target="_blank">{{event.level}}</a></li>
                   {% if event.honor != 0 %}
