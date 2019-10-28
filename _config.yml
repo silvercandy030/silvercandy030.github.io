@@ -142,7 +142,7 @@ events:
     date: " April 2019"
     description: "A barrier-free human-computer interaction system with a low cost of less than 1000 yuan helps patients with severe motor function disease to convey the information in their mind through eeg, identify the words they want to enter and complete the input function"
     level: "National undergraduate innovation and entrepreneurship program"
-    honor: "Related paper was accepted by the Chinese core journal &ldquo omputer Systems & Applications &rdquo"
+    honor: "Related paper was accepted by the Chinese core journal" &ldquo "Computer Systems & Applications" &rdquo
   - image: "/img/timeline/hq.jpg"
     title: "Hengqin island tourism industry development research: importance-performance analysis based on online reviews"  
     date: "December 2018 - today"
